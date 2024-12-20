@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.0.10/20025
 // Filename: ??? ???? VIORR 75A - ??.ggsk
-// Generated 2024-12-20T12:13:05
+// Generated 2024-12-20T12:16:10
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_minimap_button', 2, false, { ignoreInState: 0  });
@@ -18264,7 +18264,7 @@ function pano2vrSkin(player,base) {
 		els.setAttribute('style',hs);
 		me._text_25.ggUpdateText=function() {
 			var params = [];
-			var hs = player._("74A type \uac70\uc2e4 \uba54\uc778 \ubdf0", params);
+			var hs = player._("75A type \uac70\uc2e4 \uba54\uc778 \ubdf0", params);
 			if (hs!=this.ggText) {
 				this.ggText=hs;
 				this.ggTextDiv.innerHTML=hs;
@@ -19006,7 +19006,7 @@ function pano2vrSkin(player,base) {
 		els.setAttribute('style',hs);
 		me._text_25m.ggUpdateText=function() {
 			var params = [];
-			var hs = player._("74A type \uac70\uc2e4 \uba54\uc778 \ubdf0", params);
+			var hs = player._("75A type \uac70\uc2e4 \uba54\uc778 \ubdf0", params);
 			if (hs!=this.ggText) {
 				this.ggText=hs;
 				this.ggTextDiv.innerHTML=hs;
