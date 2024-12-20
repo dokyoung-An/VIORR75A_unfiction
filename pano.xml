@@ -154,13 +154,13 @@
       <level predecode="1" width="500" preload="1" height="500"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="2" pannorth="263.889">
+    <view fovmode="2" pannorth="79.1216">
       <start fov="160.114" projection="4" pan="-0.317678" tilt="-1.52853"/>
       <flyin fov="170" projection="9" pan="0" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max scaletofit="1" fovfisheye="360" fov="140" fovstereographic="330" pan="360" tilt="90"/>
     </view>
-    <userdata description="거실" author="" tags="03-75A타입|가구ON|낮" copyright="" info="" nodeid="node1" heading="263.889" customnodeid="" datetime="" source="" comment="" latitude="" longitude="" title="거실">
+    <userdata description="거실" author="" tags="03-75A타입|가구ON|낮" copyright="" info="" nodeid="node1" heading="79.1216" customnodeid="" datetime="" source="" comment="" latitude="" longitude="" title="거실">
       <mapcoords y="-1.91162" y_floorplan_percent="69.6" mapid="FloorPlan01" x="1.47217" x_floorplan_percent="53.6"/>
     </userdata>
     <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
